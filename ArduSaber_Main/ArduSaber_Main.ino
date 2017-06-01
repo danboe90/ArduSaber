@@ -21,7 +21,7 @@
  *            |         D3            |       pB1         |       PushButton          |
  *            |         D4            |       CS          |       SD-Card Adapter     |
  *            |         D5            |       G           |       BUK453              |
- *            |         D6            |       /\/         |       /\/                 |       
+ *            |         D6            |       /\/         |       /\/                 |
  *            |         D7            |       /\/         |       /\/                 |
  *            |         D8            |       /\/         |       /\/                 |
  *            |         D9            |       R1          |       In to 2k7 resistor  |
