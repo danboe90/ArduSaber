@@ -1,4 +1,4 @@
-#ArduSaber
+# ArduSaber
 This Readme is still under work, but will cover the following things:
 - used hardware
 - pinning of the hardware
