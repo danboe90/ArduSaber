@@ -41,5 +41,5 @@ void setup() {
     delay(9);
   #endif
   
-  Serial.println("Boot finished...");
+  // Serial.println("Boot finished...");
 }
