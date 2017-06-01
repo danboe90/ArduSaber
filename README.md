@@ -56,5 +56,5 @@ The hardware will be placed onto a designed PCB after prototyping.
  
  
  ## Documentation of Software
- This entire software was implemented thanks to previous work of JakeS0ft and his contributers.
+ This entire software was implemented thanks to previous work of [JakeS0ft](https://github.com/JakeS0ft/USaber) and his contributers.
  
