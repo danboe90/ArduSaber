@@ -23,9 +23,9 @@ The hardware will be placed onto a designed PCB after prototyping.
 
 ## Pinning
 
- -------------------------------------------------------------------------
+ 
  |    ARDUINO PIN        |       PIN         |       HARDWARE            |
- -------------------------------------------------------------------------
+ |-----------------------|-------------------|---------------------------|
  |         D2            |       nC          |       nC                  |
  |         D3            |       pB1         |       PushButton          |
  |         D4            |       CS          |       SD-Card Adapter     |
@@ -38,7 +38,6 @@ The hardware will be placed onto a designed PCB after prototyping.
  |         D11           |       MOSI        |       SD-Card Adapter     |
  |         D12           |       MISO        |       SD-Card Adapter     |
  |         D13           |       SCK         |       SD-Card Adapter     |
- -------------------------------------------------------------------------
  |         A0            |       nC          |       nC                  |
  |         A1            |       nC          |       nC                  |
  |         A2            |       nC          |       nC                  |
@@ -47,12 +46,9 @@ The hardware will be placed onto a designed PCB after prototyping.
  |         A5            |       SCL         |       MPU6050             |
  |         A6            |       nC          |       nC                  |
  |         A7            |       nC          |       nC                  |
- -------------------------------------------------------------------------
  |         RST           |       nC          |       nC                  |
- -------------------------------------------------------------------------
  |         +5V           |       VCC         |       MPU6050             |
  |                       |       VCC         |       SD-Card Adapter     |
- -------------------------------------------------------------------------
  |         GND           |       GND         |       MPU6050             |
  |                       |       GND         |       SD-Card Adapter     |
  |                       |       pB2         |       PushButton          |
